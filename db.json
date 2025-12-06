@@ -1,0 +1,390 @@
+{
+  "stock": [
+    {
+      "id": 1,
+      "name": "Borjomi",
+      "category": "water",
+      "volume": "0.33 л",
+      "inStock": true
+    },
+    {
+      "id": 2,
+      "name": "Borjomi",
+      "category": "water",
+      "volume": "0.5 л",
+      "inStock": true
+    },
+    {
+      "id": 3,
+      "name": "Borjomi",
+      "category": "water",
+      "volume": "0.75 л",
+      "inStock": true
+    },
+    {
+      "id": 4,
+      "name": "Borjomi",
+      "category": "water",
+      "volume": "1 л",
+      "inStock": true
+    },
+
+    {
+      "id": 5,
+      "name": "Evian",
+      "category": "water",
+      "volume": "0.33 л",
+      "inStock": true
+    },
+    {
+      "id": 6,
+      "name": "Evian",
+      "category": "water",
+      "volume": "0.5 л",
+      "inStock": true
+    },
+    {
+      "id": 7,
+      "name": "Evian",
+      "category": "water",
+      "volume": "1.5 л",
+      "inStock": true
+    },
+
+    {
+      "id": 8,
+      "name": "Святой источник",
+      "category": "water",
+      "volume": "0.33 л",
+      "inStock": true
+    },
+    {
+      "id": 9,
+      "name": "Святой источник",
+      "category": "water",
+      "volume": "0.5 л",
+      "inStock": true
+    },
+    {
+      "id": 10,
+      "name": "Святой источник",
+      "category": "water",
+      "volume": "1.5 л",
+      "inStock": true
+    },
+    {
+      "id": 11,
+      "name": "Святой источник",
+      "category": "water",
+      "volume": "5 л",
+      "inStock": true
+    },
+
+    {
+      "id": 12,
+      "name": "Шишкин лес",
+      "category": "water",
+      "volume": "0.5 л",
+      "inStock": true
+    },
+    {
+      "id": 13,
+      "name": "Шишкин лес",
+      "category": "water",
+      "volume": "1.5 л",
+      "inStock": true
+    },
+    {
+      "id": 14,
+      "name": "Шишкин лес",
+      "category": "water",
+      "volume": "5 л",
+      "inStock": true
+    },
+
+    {
+      "id": 15,
+      "name": "Aqua Minerale",
+      "category": "water",
+      "volume": "0.5 л",
+      "inStock": true
+    },
+    {
+      "id": 16,
+      "name": "Aqua Minerale",
+      "category": "water",
+      "volume": "1 л",
+      "inStock": true
+    },
+    {
+      "id": 17,
+      "name": "Aqua Minerale",
+      "category": "water",
+      "volume": "1.5 л",
+      "inStock": true
+    },
+
+    {
+      "id": 18,
+      "name": "Ессентуки №17",
+      "category": "water",
+      "volume": "0.5 л",
+      "inStock": true
+    },
+    {
+      "id": 19,
+      "name": "Ессентуки №17",
+      "category": "water",
+      "volume": "1.5 л",
+      "inStock": true
+    },
+
+    {
+      "id": 20,
+      "name": "Нарзан",
+      "category": "water",
+      "volume": "0.5 л",
+      "inStock": true
+    },
+    {
+      "id": 21,
+      "name": "Нарзан",
+      "category": "water",
+      "volume": "1 л",
+      "inStock": true
+    },
+    {
+      "id": 22,
+      "name": "Нарзан",
+      "category": "water",
+      "volume": "1.5 л",
+      "inStock": true
+    },
+
+    {
+      "id": 23,
+      "name": "Rich Апельсиновый",
+      "category": "juice",
+      "volume": "0.25 л",
+      "inStock": true
+    },
+    {
+      "id": 24,
+      "name": "Rich Апельсиновый",
+      "category": "juice",
+      "volume": "0.5 л",
+      "inStock": true
+    },
+    {
+      "id": 25,
+      "name": "Rich Апельсиновый",
+      "category": "juice",
+      "volume": "1 л",
+      "inStock": true
+    },
+
+    {
+      "id": 26,
+      "name": "Добрый Мультифрукт",
+      "category": "juice",
+      "volume": "0.2 л",
+      "inStock": true
+    },
+    {
+      "id": 27,
+      "name": "Добрый Мультифрукт",
+      "category": "juice",
+      "volume": "0.5 л",
+      "inStock": true
+    },
+    {
+      "id": 28,
+      "name": "Добрый Мультифрукт",
+      "category": "juice",
+      "volume": "1 л",
+      "inStock": true
+    },
+    {
+      "id": 29,
+      "name": "Добрый Мультифрукт",
+      "category": "juice",
+      "volume": "2 л",
+      "inStock": true
+    },
+
+    {
+      "id": 30,
+      "name": "Santal Ананас",
+      "category": "juice",
+      "volume": "0.2 л",
+      "inStock": true
+    },
+    {
+      "id": 31,
+      "name": "Santal Ананас",
+      "category": "juice",
+      "volume": "1 л",
+      "inStock": true
+    },
+
+    {
+      "id": 32,
+      "name": "Granini Виноград",
+      "category": "juice",
+      "volume": "0.25 л",
+      "inStock": true
+    },
+    {
+      "id": 33,
+      "name": "Granini Виноград",
+      "category": "juice",
+      "volume": "1 л",
+      "inStock": true
+    },
+
+    {
+      "id": 34,
+      "name": "Coca-Cola",
+      "category": "soda",
+      "volume": "0.33 л",
+      "inStock": true
+    },
+    {
+      "id": 35,
+      "name": "Coca-Cola",
+      "category": "soda",
+      "volume": "0.5 л",
+      "inStock": true
+    },
+    {
+      "id": 36,
+      "name": "Coca-Cola",
+      "category": "soda",
+      "volume": "1 л",
+      "inStock": true
+    },
+    {
+      "id": 37,
+      "name": "Coca-Cola",
+      "category": "soda",
+      "volume": "2 л",
+      "inStock": true
+    },
+
+    {
+      "id": 38,
+      "name": "Pepsi",
+      "category": "soda",
+      "volume": "0.33 л",
+      "inStock": true
+    },
+    {
+      "id": 39,
+      "name": "Pepsi",
+      "category": "soda",
+      "volume": "0.5 л",
+      "inStock": true
+    },
+    {
+      "id": 40,
+      "name": "Pepsi",
+      "category": "soda",
+      "volume": "1 л",
+      "inStock": true
+    },
+    {
+      "id": 41,
+      "name": "Pepsi",
+      "category": "soda",
+      "volume": "2 л",
+      "inStock": true
+    },
+
+    {
+      "id": 42,
+      "name": "Sprite",
+      "category": "soda",
+      "volume": "0.33 л",
+      "inStock": true
+    },
+    {
+      "id": 43,
+      "name": "Sprite",
+      "category": "soda",
+      "volume": "0.5 л",
+      "inStock": true
+    },
+    {
+      "id": 44,
+      "name": "Sprite",
+      "category": "soda",
+      "volume": "1.25 л",
+      "inStock": true
+    },
+    {
+      "id": 45,
+      "name": "Sprite",
+      "category": "soda",
+      "volume": "2 л",
+      "inStock": true
+    },
+
+    {
+      "id": 46,
+      "name": "Fanta Orange",
+      "category": "soda",
+      "volume": "0.33 л",
+      "inStock": true
+    },
+    {
+      "id": 47,
+      "name": "Fanta Orange",
+      "category": "soda",
+      "volume": "0.5 л",
+      "inStock": true
+    },
+    {
+      "id": 48,
+      "name": "Fanta Orange",
+      "category": "soda",
+      "volume": "1 л",
+      "inStock": true
+    },
+    {
+      "id": 49,
+      "name": "Fanta Orange",
+      "category": "soda",
+      "volume": "2 л",
+      "inStock": true
+    },
+
+    {
+      "id": 50,
+      "name": "7UP",
+      "category": "soda",
+      "volume": "0.33 л",
+      "inStock": true
+    },
+    {
+      "id": 51,
+      "name": "7UP",
+      "category": "soda",
+      "volume": "0.5 л",
+      "inStock": true
+    },
+    {
+      "id": 52,
+      "name": "7UP",
+      "category": "soda",
+      "volume": "1.5 л",
+      "inStock": true
+    },
+    {
+      "id": 53,
+      "name": "7UP",
+      "category": "soda",
+      "volume": "2 л",
+      "inStock": true
+    }
+  ]
+}
