@@ -160,63 +160,61 @@
       "volume": "1.5 л",
       "inStock": true
     },
-
     {
       "id": 23,
-      "name": "Rich Апельсиновый",
-      "category": "juice",
-      "volume": "0.25 л",
+      "name": "Coca-Cola",
+      "category": "soda",
+      "volume": "0.33 л",
       "inStock": true
     },
     {
       "id": 24,
-      "name": "Rich Апельсиновый",
-      "category": "juice",
+      "name": "Coca-Cola",
+      "category": "soda",
       "volume": "0.5 л",
       "inStock": true
     },
     {
       "id": 25,
-      "name": "Rich Апельсиновый",
-      "category": "juice",
+      "name": "Coca-Cola",
+      "category": "soda",
       "volume": "1 л",
       "inStock": true
     },
-
     {
       "id": 26,
-      "name": "Добрый Мультифрукт",
-      "category": "juice",
-      "volume": "0.2 л",
-      "inStock": true
-    },
-    {
-      "id": 27,
-      "name": "Добрый Мультифрукт",
-      "category": "juice",
-      "volume": "0.5 л",
-      "inStock": true
-    },
-    {
-      "id": 28,
-      "name": "Добрый Мультифрукт",
-      "category": "juice",
-      "volume": "1 л",
-      "inStock": true
-    },
-    {
-      "id": 29,
-      "name": "Добрый Мультифрукт",
-      "category": "juice",
+      "name": "Coca-Cola",
+      "category": "soda",
       "volume": "2 л",
       "inStock": true
     },
 
     {
+      "id": 27,
+      "name": "Pepsi",
+      "category": "soda",
+      "volume": "0.33 л",
+      "inStock": true
+    },
+    {
+      "id": 28,
+      "name": "Pepsi",
+      "category": "soda",
+      "volume": "0.5 л",
+      "inStock": true
+    },
+    {
+      "id": 29,
+      "name": "Pepsi",
+      "category": "soda",
+      "volume": "1 л",
+      "inStock": true
+    },
+    {
       "id": 30,
-      "name": "Santal Ананас",
-      "category": "juice",
-      "volume": "0.2 л",
+      "name": "Pepsi",
+      "category": "soda",
+      "volume": "2 л",
       "inStock": true
     }
   ]
